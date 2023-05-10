@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "latex-workshop.latex.autoClean.run": "onBuilt",
+  "latex-workshop.latex.outDir": "%DIR%/out",
+  "latex-workshop.linting.chktex.enabled": true,
+  "latex-workshop.linting.run": "onType",
+  "latex-workshop.latex.clean.subfolder.enabled": true
+}
